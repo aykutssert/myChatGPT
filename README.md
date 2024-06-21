@@ -40,7 +40,7 @@ This project is an Android application that uses the OpenAI API to answer user q
     - Type your questions into the text box and click the send button.
     - The OpenAI API will process your questions and display the responses on the screen.
 
-![android](androidUI.png)
+![androidUI.png](https://github.com/aykutssert/openai_api/blob/main/images/androidUI.png)
 
 ### IOS Application Usage
 
